@@ -1,5 +1,6 @@
 <h1 align="center">Leonardo Walker</h1>
 <h3 align="center"> RealityStone - Challenge Sprint 4</h3>
+<h4 align="center"> Ruby e Versionamento de Código </h4>
 
 <h3 align="left">LinkedIn </h3>
 <p align="left">
@@ -18,13 +19,28 @@
 | [Rspec](https://rspec.info/) | v.3.4.0  |
 
 # Instalação:
-[Ruby](https://rubyinstaller.org/downloads/)
+## [Git](https://git-scm.com/downloads)
+1. Baixar a versão estável mais recente.
+2. Executar o instalador.
+
+## [Ruby](https://rubyinstaller.org/downloads/)
  1. Baixar o instalador Ruby+Devikit 3.1.2-1 (x64)
  2. Executar o instalador:
   - Marcar a opção"Add Ruby executables to your Path"
   - Marcar a opção "Associate .rb and .rbw files with this Ruby installantion".
   
- Gem's
+## Gem's
+1. Executar os seguintes comandos no CMD: <br>
+ ```sh 
+ gem install win32console 
+ ``` 
+ ```sh 
+ gem install bundler 
+ ``` 
+ ```sh 
+ gem install ruby-debug-ide
+ ``` 
+
   
 # Execução dos Koans:
   ```sh
@@ -58,4 +74,6 @@ Copyright © 2022 [Leonardo Walker](https://github.com/leonardo-walker).<br>
 Copyright © 2022 [Compass.uol](https://compass.uol/).
 
 # Créditos
+- [Documentação GIT](https://git-scm.com/doc)
+- [Documentação Ruby](https://www.ruby-lang.org/pt/documentation/)
 
